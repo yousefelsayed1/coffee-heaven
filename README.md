@@ -1,4 +1,4 @@
-# coffee-heaven
+# Coffee-Heaven
 complete responsive online coffee shop website design using html css vanilla javascript.
-# Demo :
+## Demo :
 https://yousefelsayed1.github.io/coffee-heaven/
